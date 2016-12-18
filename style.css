@@ -1,0 +1,10 @@
+/*
+  were using Bootstrap and Font Awesome
+  http://bootstrapcdn.com
+*/
+
+body { padding-top:30px; }
+.table>thead>tr>td{
+	text-align: center;
+	vertical-align:middle;
+}
