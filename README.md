@@ -1,4 +1,4 @@
-# show_usrers_app
+# show_users_app
 Test assignment for Devster Lab
 Data is taken from ‘https://jsonplaceholder.typicode.com/users’
 Search can be made using ‘name’, ‘username’, ‘email’ fields.
